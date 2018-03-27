@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="css/style.min.css">
     <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="js/popper.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/app.min.js"></script>
     <meta name="apple-mobile-web-app-title" content="Micro Machines v3 Scoresheet"/>
     <meta name="application-name" content="Micro Machines v3 Scoresheet"/>
