@@ -1,0 +1,43 @@
+{
+    "name": "Micro Machines v3 Scoresheet",
+    "short_name": "MMv3 Score",
+    "description": "Scoresheet for Micro Machines v3.",
+    "lang": "nb-NB",
+    "icons": [
+        {
+            "src": "icons/icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "orientation": "any",
+    "related_applications": [{
+        "platform": "web",
+        "url": "https://avolle.com/mm/"
+    }],
+    "scope": "/",
+    "prefer_related_applications": true
+}
